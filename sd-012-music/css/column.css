@@ -1,0 +1,148 @@
+/*
+   CSS for Simple-Xoops V 0.8
+        theme name:        sd-012-music
+        Version 0.1
+
+        Style for Columns
+*/
+
+td#leftcolumn {
+         background: #ffffff;
+         padding: 10px 3px 4px 3px;
+         width: 165px;
+         height:560px;
+         font-size:11px;
+}
+td#leftcolumn th {
+         background: #001b25;
+         color: #FFFFFF;
+         vertical-align: middle;
+}
+td#leftcolumn div.blockTitle {
+         text-align: left;
+         padding: 3px 3px 3px 22px;
+         background: #001b25;
+         color: #FFFFFF;
+         font-weight: bold;
+}
+td#leftcolumn div.blockContent {padding: 3px; line-height: 120%;}
+
+td#leftcolumn_nobg {
+         background-color: #ffffff;
+         padding: 20px 5px 5px 5px;
+         width: 160px;
+         height:560px;
+         font-size:11px;
+}
+
+td#centercolumn {font-size: 11px;}
+
+td#centercolumn th {
+         background-color: #001b25;
+         color: #FFFFFF;
+         vertical-align: middle;
+}
+td#centerCcolumn {padding: 0px 3px 1px 3px;}
+td#centerCcolumn legend.blockTitle {
+         padding: 3px;
+         color: #639ACE;
+         font-weight: bold;
+         margin-top: 0px;
+         margin-right: 0px;
+         margin-left: 0px;
+}
+td#centerCcolumn div.blockContent {
+         margin-right: 0px;
+         margin-left: 0px;
+         margin-bottom: 2px;
+         line-height: 120%;
+}
+
+td#centerLcolumn {width: 50%; padding: 0px 3px 0px 0px;}
+td#centerLcolumn legend.blockTitle {
+         padding: 3px;
+         color: #639ACE;
+         font-weight: bold;
+         margin-top: 0px;
+}
+td#centerLcolumn div.blockContent {
+         padding: 3px;
+         margin-left: 3px;
+         margin-right: 2px;
+         margin-bottom: 2px;
+         line-height: 120%;
+}
+
+td#centerRcolumn {width: 50%; padding: 0px 3px 0px 0px;}
+td#centerRcolumn legend.blockTitle {
+         padding: 3px;
+         color: #639ACE;
+         font-weight: bold;
+         margin-top: 0px;
+}
+td#centerRcolumn div.blockContent {
+         padding: 3px;
+         margin-left: 2px;
+         margin-right: 3px;
+         margin-bottom: 2px;
+         line-height: 120%;
+}
+
+div#content {text-align: left; padding: 8px;}
+
+td#rightcolumn {
+         width: 165px;
+         height:550px;
+         background-color: #ffffff;
+         font-size:11px;
+         padding: 10px 2px 4px 4px;
+}
+td#rightcolumn th {
+         background-color: #001b25;
+         color: #FFFFFF;
+         vertical-align: middle;
+}
+td#rightcolumn div.blockTitle {
+         text-align: left;
+         padding: 3px 3px 3px 22px;
+         background-color: #001b25;
+         color: #FFFFFF;
+         font-weight: bold;
+}
+td#rightcolumn div.blockContent {padding: 3px; line-height: 120%;}
+
+.outer { border: 1px solid #CCCCCC;}
+.head {
+         background-color: #2d8180;
+         color: #272727;
+         font-weight: bold;
+         padding: 2px;
+}
+.even {  background-color: #f7f7f7; padding: 3px;}
+.odd {   background-color: #f7f7f7; padding: 3px;}
+.foot {
+         color: #000;
+         background-color: #001b25;
+         padding: 3px;
+         font-weight: bold;
+         text-align: left;
+}
+.foot a {color: #fff;}
+tr.head td {
+         background-color: #2d8180;
+         padding: 3px;
+         font-weight: bold;
+}
+tr.even td {
+         background-color: #f7f7f7;
+         padding: 3px;
+}
+tr.odd td {
+         background-color: #f7f7f7;
+         padding: 3px;
+}
+tr.foot td {
+         background-color: #f7f7f7;
+         padding: 3px;
+         font-weight: bold;
+}
